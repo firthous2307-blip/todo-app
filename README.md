@@ -2,7 +2,7 @@
 
 This is a simple To-Do List application built using HTML, CSS, and JavaScript.
 ## Preview
-![App Screenshot](To do project -Screenshot.png)
+![App Screenshot](screenshot.png)
 ## Features
 - Add tasks
 - Delete tasks
