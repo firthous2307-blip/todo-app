@@ -10,7 +10,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript.
 - Clean UI with animations
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://firthous2307-blip.github.io/todo-app/
 
 ## Technologies Used
 - HTML
